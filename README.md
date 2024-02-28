@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taner84
 - 👀 I’m interested in designing and coding
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any kind of project to learn and improve my skills
 - 📫 How to reach me ...
 
